@@ -1,0 +1,9 @@
+ahu.ewn
+ahu.ewn.board
+ahu.ewn.game
+ahu.ewn.record
+ahu.ewn.strategy.dice
+ahu.ewn.strategy.evaluation
+ahu.ewn.strategy.initial
+ahu.ewn.strategy.move
+ahu.ewn.ui

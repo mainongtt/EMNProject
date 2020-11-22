@@ -17,7 +17,7 @@ import ahu.ewn.strategy.initial.StaticInitial;
 /**
  * 随机产生下棋动作
  *
- * @author 陆梦轩
+ * @author 周子 张坤：实现使用蒙特卡洛思想的模拟棋局搜索算法。本质还是贪心。代码原创！现在开源
  *
  */
 public class RandomMove extends MoveStrategy{

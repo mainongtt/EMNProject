@@ -8,7 +8,7 @@ import ahu.ewn.board.PieceType;
 /**
  * 自定义估值函数，需要在此类中完善估值的代码。界面中的“直接估值”策略里的“超级估值”就是指这个类
  * 
- * @author 陆梦轩
+ * @author 张坤 周子轩：实现的超级估值函数!!算法原创，现在开源
  *
  */
 public class MySuperEvaluate extends EvaluationFunction{
